@@ -1,0 +1,124 @@
+college,ug_tuition,g_tuition,conf
+Cincinnati,28240,26674,AAC
+Connecticut,43034,44106,AAC
+Houston,22191,19109,AAC
+Louisville,29174,29102,AAC
+Memphis,14784,15228,AAC
+Rutgers,36001,36244,AAC
+USF,17324,21126,AAC
+SMU,64460,37062,AAC
+Temple,37248,28523,AAC
+UCF,22467,28657,AAC
+Boston College,67680,35900,ACC
+Clemson,39498,24798,ACC
+Duke,65805,63985,ACC
+Louisville,29174,29102,ACC
+Florida State,21683,26707,ACC
+Georgia Tech,32876,30646,ACC
+Miami,59926,44858,ACC
+North Carolina,39330,30819,ACC
+NC State,31767,31793,ACC
+Notre Dame,62693,62502,ACC
+Pittsburg,39890,45034,ACC
+Syracuse,63061,46318,ACC
+Virginia,59633,36198,ACC
+Wake Forest,64758,39350,ACC
+Virginia Tech,36694,34085,ACC
+Illinois,39192,33640,Big Ten
+Indiana,40482,33410,Big Ten
+Iowa,32927,34882,Big Ten
+Michigan,60107,55052,Big Ten
+Michigan State,44040,41224,Big Ten
+Minnesota,36402,31555,Big Ten
+Nebraska,27748,20318,Big Ten
+Northwestern,65997,53871,Big Ten
+Ohio State,38365,41227,Big Ten
+Penn State,40188,43828,Big Ten
+Purdue,28794,28794,Big Ten
+Wisconsin,40603,25615,Big Ten
+Maryland,40306,37383,Big Ten
+Rutgers,36001,36244,Big Ten
+Baylor,54844,41130,Big 12
+Iowa State,27683,29303,Big 12
+Kansas,29412,26236,Big 12
+Kansas State,27816,25147,Big 12
+Oklahoma,26665,25342,Big 12
+Oklahoma State,25630,24595,Big 12
+Texas,42778,22954,Big 12
+TCU,57220,35778,Big 12
+Texas Tech,24451,17918,Big 12
+West Virginia,27360,28260,Big 12
+UAB,21864,20556,CUSA
+Florida Atlantic,17324,18482,CUSA
+Florida International,18964,24439,CUSA
+Marshall,20294,22024,CUSA
+Middle Tennessee,29042,28170,CUSA
+Southern Mississippi,11618,11618,CUSA
+Louisiana Tech,16866,12726,CUSA
+North Texas,21244,16622,CUSA
+Rice,58128,54462,CUSA
+UTEP,25512,16621,CUSA
+UTSA,22217,28753,CUSA
+Old Dominion,32662,35008,CUSA
+Charlotte,21876,22438,CUSA
+Western Kentucky,27000,18340,CUSA
+Akron,17239,15171,MAC
+Bowling Green,21378,16283,MAC
+Buffalo,30572,27338,MAC
+Kent State,20880,23352,MAC
+Miami,38124,36338,MAC
+Ohio,24114,17712,MAC
+Ball State,28766,29196,MAC
+Central Michigan,14312,16293,MAC
+Eastern Michigan,16260,30072,MAC
+Northern Illinois,12506,9090,MAC
+Toledo,21102,28853,MAC
+Western Michigan,19098,28454,MAC
+Air Force,-,-,MWC
+Boise State,26976,28605,MWC
+Fresno State,18860,17918,MWC
+Colorado State,33765,29786,MWC
+Nevada,25950,23540,MWC
+UNLV,26099,23933,MWC
+New Mexico,26451,21550,MWC
+San Diego State,20170,19228,MWC
+San José State,19872,18930,MWC
+Utah State,24223,24008,MWC
+Wyoming,22718,20996,MWC
+Arizona,38784,33961,Pac 12
+Arizona State,32193,26735,Pac 12
+California,45627,30363,Pac 12
+Colorado,41943,38020,Pac 12
+Oregon,41194,32709,Pac 12
+Oregon State,35664,31698,Pac 12
+Stanford,62484,59499,Pac 12
+UCLA,44524,28985,Pac 12
+USC,68237,68128,Pac 12
+Utah,29837,27056,Pac 12
+Washington,41997,32511,Pac 12
+Washington State,29073,29567,Pac 12
+Arkansas State,13826,12416,Sun Belt
+Arkansas,22067,15100,Sun Belt
+Georgia State,23709,23982,Sun Belt
+Louisiana,24146,23912,Sun Belt
+Louisiana-Monroe,21290,21500,Sun Belt
+South Alabama,18652,17680,Sun Belt
+Texas State,23210,18301,Sun Belt
+UT Arlington,29659,25345,Sun Belt
+Troy,19584,17100,Sun Belt
+Georgia Southern,16959,21424,Sun Belt
+Coastal Carolina,29628,21438,Sun Belt
+Florida,28659,30130,SEC
+Georgia,30220,26576,SEC
+Kentucky,33406,35459,SEC
+Missouri,34338,31029,SEC
+South Carolina,34943,30160,SEC
+Tennessee,31974,32108,SEC
+Vanderbilt,63946,56128,SEC
+Alabama,33200,33040,SEC
+Arkansas,28772,30220,SEC
+Auburn,33944,33908,SEC
+LSU,28631,29962,SEC
+Mississippi State,26580,26580,SEC
+Ole Miss,26980,26980,SEC
+Texas A&M,40328,24090,SEC
